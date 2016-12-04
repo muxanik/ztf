@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3f9b84b9-8e34-4a8c-8d00-6988c5980052" name="ztf" url="http://zakaz.thomifelgen.ru">
+        <fileTransfer host="5.45.124.13" port="1234" rootFolder="/home/bitrix/ext_www/zakaz.thomifelgen.ru" accessType="SFTP" username="bitrix">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1234" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
